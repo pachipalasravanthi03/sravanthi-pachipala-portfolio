@@ -2,7 +2,7 @@
 
 A cinematic dark editorial single-page developer portfolio showcasing data analytics and machine learning projects.
 
-**Live site**: [https://YOUR-SITE-URL/](https://YOUR-SITE-URL/)
+**Live site**: [https://sravanthi-pachipala-portfolio.vercel.app/](https://sravanthi-pachipala-portfolio.vercel.app/)
 
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 
